@@ -5,6 +5,7 @@ import HatsTitle from './3_HatsTitle.styles';
 import HatsSubtittle from './4_HatsSubtittle.styles';
 
 const HatsComponent =() => {
+    
     return (
         <HatsImageContainer>
             <HatsContentContainer>
